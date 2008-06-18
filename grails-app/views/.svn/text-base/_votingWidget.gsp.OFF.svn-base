@@ -1,0 +1,21 @@
+<div id="voter">
+Jealous
+<a href="${createLink(controller:'vote',action:'jealous',id:brag.id,params:[fromBragList:fromBragList,remoteCall:0)"> 
+<img src="${createLinkTo(dir:'images',file:'jealous.png')}" alt="Jealous" />
+</a>
+/ Not Jealous
+<a href="${createLink(controller:'vote',action:'notJealous',id:brag.id,params:[fromBragList:fromBragList,remoteCall:0)"> 
+<img src="${createLinkTo(dir:'images',file:'notJealous.png')}" alt="Not Jealous" />
+</a>
+
+<div id="voteResults${brag.id}">${brag.numberOfJealousVotes()} (${brag.jealousPercentageString()}) / ${brag.numberOfNotJealousVotes()} (${brag.notJealousPercentageString()})
+</div>
+
+<g:if test="${fromBragList == 0}">
+	<g:render template="/jealousUser"/>
+	<g:render template="/notJealousUser"/>
+</g:if>
+
+</div>
+
+

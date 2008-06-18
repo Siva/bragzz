@@ -1,0 +1,89 @@
+  
+<html>
+    <head>
+         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+         <meta name="layout" content="main" />
+         <title>Edit SiteUser</title>
+    </head>
+    <body>
+        <div class="nav">
+            <span class="menuButton"><a href="${createLinkTo(dir:'')}">Home</a></span>
+            <span class="menuButton"><g:link action="list">SiteUser List</g:link></span>
+            <span class="menuButton"><g:link action="create">New SiteUser</g:link></span>
+        </div>
+        <div class="body">
+           <h1>Edit SiteUser</h1>
+           <g:if test="${flash.message}">
+                 <div class="message">${flash.message}</div>
+           </g:if>
+           <g:hasErrors bean="${siteUser}">
+                <div class="errors">
+                    <g:renderErrors bean="${siteUser}" as="list" />
+                </div>
+           </g:hasErrors>
+           <div class="prop">
+	      <span class="name">Id:</span>
+	      <span class="value">${siteUser?.id}</span>
+           </div>           
+           <g:form controller="siteUser" method="post" >
+               <input type="hidden" name="id" value="${siteUser?.id}" />
+               <div class="dialog">
+                <table>
+                    <tbody>
+
+                       
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='name'>Name:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'name','errors')}'><input type="text" name='name' value="${siteUser?.name?.encodeAsHTML()}"/></td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='password'>Password:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'password','errors')}'><input type="text" maxlength='8' name='password' value="${siteUser?.password?.encodeAsHTML()}"/></td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='displayName'>Display Name:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'displayName','errors')}'><input type="text" maxlength='30' name='displayName' value="${siteUser?.displayName?.encodeAsHTML()}"/></td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='email'>Email:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'email','errors')}'><input type="text" name='email' value="${siteUser?.email?.encodeAsHTML()}"/></td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='comments'>Comments:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'comments','errors')}'><ul>
+    <g:each var='c' in='${siteUser?.comments?}'>
+        <li><g:link controller='comment' action='show' id='${c.id}'>${c}</g:link></li>
+    </g:each>
+</ul>
+<g:link controller='comment' params='["siteUser.id":siteUser?.id]' action='create'>Add Comment</g:link>
+</td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='contacts'>Contacts:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'contacts','errors')}'><ul>
+    <g:each var='c' in='${siteUser?.contacts?}'>
+        <li><g:link controller='siteUser' action='show' id='${c.id}'>${c}</g:link></li>
+    </g:each>
+</ul>
+<g:link controller='siteUser' params='["siteUser.id":siteUser?.id]' action='create'>Add SiteUser</g:link>
+</td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='brags'>Brags:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'brags','errors')}'><ul>
+    <g:each var='b' in='${siteUser?.brags?}'>
+        <li><g:link controller='brag' action='show' id='${b.id}'>${b}</g:link></li>
+    </g:each>
+</ul>
+<g:link controller='brag' params='["siteUser.id":siteUser?.id]' action='create'>Add Brag</g:link>
+</td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='joinedOn'>Joined On:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'joinedOn','errors')}'><g:datePicker name='joinedOn' value="${siteUser?.joinedOn}"></g:datePicker></td></tr>
+                       
+				<tr class='prop'><td valign='top' class='name'><label for='votes'>Votes:</label></td><td valign='top' class='value ${hasErrors(bean:siteUser,field:'votes','errors')}'><ul>
+    <g:each var='v' in='${siteUser?.votes?}'>
+        <li><g:link controller='vote' action='show' id='${v.id}'>${v}</g:link></li>
+    </g:each>
+</ul>
+<g:link controller='vote' params='["siteUser.id":siteUser?.id]' action='create'>Add Vote</g:link>
+</td></tr>
+                       
+                    </tbody>
+                </table>
+               </div>
+
+               <div class="buttons">
+                     <span class="button"><g:actionSubmit value="Update" /></span>
+                     <span class="button"><g:actionSubmit value="Delete" /></span>
+               </div>
+            </g:form>
+        </div>
+    </body>
+</html>

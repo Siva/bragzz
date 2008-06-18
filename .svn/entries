@@ -1,0 +1,154 @@
+8
+
+dir
+11
+http://tools.assembla.com/svn/bragzz/bragzz
+http://tools.assembla.com/svn/bragzz
+
+
+
+2007-12-04T18:34:10.268125Z
+11
+dima767
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df780914-b739-dc11-ac19-00188b745eb1
+
+test
+dir
+
+plugins
+dir
+
+.project
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+4d7d5d83db6965214c8e95f9f28f223a
+2007-07-25T12:35:42.157288Z
+5
+dima767
+
+db
+dir
+
+target
+dir
+
+scripts
+dir
+
+src
+dir
+
+web-app
+dir
+
+application.properties
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+8e254146d38d9fffce40213049511233
+2007-12-04T18:34:10.268125Z
+11
+dima767
+
+build.xml
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+8429a87a69d484c610e0501b04efac7d
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+grails-app
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+b786fe2557f54dc66ea189a2088c0dea
+2007-12-04T18:34:10.268125Z
+11
+dima767
+
+bragzzDB.properties
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+c7dfa587083c3d90f10ef039d2929a37
+2007-12-04T18:34:10.268125Z
+11
+dima767
+
+lib
+dir
+
+bragzzDB.script
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+ba8d5a1f2f3c9371c582d46e8179fedf
+2007-12-04T18:34:10.268125Z
+11
+dima767
+
+bragzz.launch
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+cb11b8e51bc79bdae33d36c6fd97df96
+2007-09-03T13:56:21.236616Z
+8
+dima767
+
+bragzz.tmproj
+file
+
+
+
+
+2008-06-14T15:23:31.000000Z
+e27c5ad2eae74710e26bd38da40fdfed
+2007-09-03T13:56:21.236616Z
+8
+dima767
+
+.settings
+dir
+

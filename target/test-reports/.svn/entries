@@ -1,0 +1,106 @@
+8
+
+dir
+11
+http://tools.assembla.com/svn/bragzz/bragzz/target/test-reports
+http://tools.assembla.com/svn/bragzz
+
+
+
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df780914-b739-dc11-ac19-00188b745eb1
+
+TEST-CommentTests.xml
+file
+
+
+
+
+2008-06-14T15:23:15.000000Z
+f372ccde5e823c4d549b6d6fb92848d8
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+TEST-SiteUserTests.xml
+file
+
+
+
+
+2008-06-14T15:23:15.000000Z
+af1967aa01a750f2314064008f3e6699
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+plain
+dir
+
+html
+dir
+
+TEST-BragTests.xml
+file
+
+
+
+
+2008-06-14T15:23:15.000000Z
+1271f538b9c96edc8c3cbd31ce5942a4
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+TEST-TagTests.xml
+file
+
+
+
+
+2008-06-14T15:23:15.000000Z
+44ce7416e4cf9fde965801ae73f0216f
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+TEST-VoteTests.xml
+file
+
+
+
+
+2008-06-14T15:23:15.000000Z
+629e17d0cac3e710f7bf7d4c14e90da8
+2007-07-24T20:09:51.028299Z
+2
+dima767
+
+TEST-BragAttributeTests.xml
+file
+
+
+
+
+2008-06-14T15:23:15.000000Z
+89b5326ebf5e941c5fa9aa7d4204ea19
+2007-07-24T20:09:51.028299Z
+2
+dima767
+

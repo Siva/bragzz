@@ -1,0 +1,55 @@
+8
+
+dir
+11
+http://tools.assembla.com/svn/bragzz/bragzz/grails-app
+http://tools.assembla.com/svn/bragzz
+
+
+
+2007-12-04T18:34:10.268125Z
+11
+dima767
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df780914-b739-dc11-ac19-00188b745eb1
+
+i18n
+dir
+
+utils
+dir
+
+taglib
+dir
+
+services
+dir
+
+conf
+dir
+
+controllers
+dir
+
+domain
+dir
+
+jobs
+dir
+
+views
+dir
+

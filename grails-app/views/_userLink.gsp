@@ -1,0 +1,1 @@
+<g:link controller="siteUser" action="showProfileBrags" id="${user.id}">${user.displayName.encodeAsHTML()}</g:link>

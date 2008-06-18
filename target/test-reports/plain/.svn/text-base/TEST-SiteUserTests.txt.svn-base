@@ -1,0 +1,7 @@
+Testsuite: SiteUserTests
+Tests run: 0, Failures: 0, Errors: 0, Time elapsed: 0 sec
+
+Testcase: testCreate took 0.365 sec
+Testcase: testFinderMethods took 0.083 sec
+Testcase: testModify took 0.162 sec
+Testcase: testValidation took 0.122 sec

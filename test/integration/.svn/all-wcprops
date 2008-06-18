@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bragzz/!svn/ver/2/bragzz/test/integration
+END
+BragTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/BragTests.groovy
+END
+TagTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/TagTests.groovy
+END
+VoteTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/VoteTests.groovy
+END
+BragAttributeTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/BragAttributeTests.groovy
+END
+CommentTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/CommentTests.groovy
+END
+SiteUserTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/SiteUserTests.groovy
+END
+CommentControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bragzz/!svn/ver/2/bragzz/test/integration/CommentControllerTests.groovy
+END

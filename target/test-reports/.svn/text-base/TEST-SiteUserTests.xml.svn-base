@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" name="SiteUserTests" tests="0" time="0.0">
+  <properties></properties>
+  <testcase classname="SiteUserTests" name="testCreate" time="0.365"></testcase>
+  <testcase classname="SiteUserTests" name="testFinderMethods" time="0.083"></testcase>
+  <testcase classname="SiteUserTests" name="testModify" time="0.162"></testcase>
+  <testcase classname="SiteUserTests" name="testValidation" time="0.122"></testcase>
+</testsuite>

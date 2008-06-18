@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/bragzz/!svn/ver/10/bragzz/grails-app/views
+END
+_listBrags.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bragzz/!svn/ver/8/bragzz/grails-app/views/_listBrags.gsp
+END
+_votingWidget.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_votingWidget.gsp
+END
+_votingWidgetHelper.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_votingWidgetHelper.gsp
+END
+error.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/error.gsp
+END
+_userLink.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_userLink.gsp
+END
+_tagTitleHelper.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_tagTitleHelper.gsp
+END
+_readOnlyVotes.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_readOnlyVotes.gsp
+END
+_auth.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_auth.gsp
+END
+_jealousUser.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_jealousUser.gsp
+END
+_notJealousUser.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_notJealousUser.gsp
+END
+_votingWidget.gsp.OFF
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_votingWidget.gsp.OFF
+END
+_globalNav.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/_globalNav.gsp
+END

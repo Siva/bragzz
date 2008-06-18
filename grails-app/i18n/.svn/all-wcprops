@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages.properties
+END
+messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages_zh_CN.properties
+END
+messages_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages_ru.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages_fr.properties
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages_de.properties
+END
+messages_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages_nl.properties
+END
+messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/i18n/messages_ja.properties
+END

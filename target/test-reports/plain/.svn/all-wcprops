@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain
+END
+TEST-CommentTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain/TEST-CommentTests.txt
+END
+TEST-SiteUserTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain/TEST-SiteUserTests.txt
+END
+TEST-BragTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain/TEST-BragTests.txt
+END
+TEST-TagTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain/TEST-TagTests.txt
+END
+TEST-VoteTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain/TEST-VoteTests.txt
+END
+TEST-BragAttributeTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bragzz/!svn/ver/2/bragzz/target/test-reports/plain/TEST-BragAttributeTests.txt
+END

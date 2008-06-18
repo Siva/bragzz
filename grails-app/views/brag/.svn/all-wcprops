@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bragzz/!svn/ver/10/bragzz/grails-app/views/brag
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/brag/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bragzz/!svn/ver/10/bragzz/grails-app/views/brag/show.gsp
+END
+tagDetail.gsp.TODO
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/brag/tagDetail.gsp.TODO
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bragzz/!svn/ver/9/bragzz/grails-app/views/brag/create.gsp
+END
+_comments.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/brag/_comments.gsp
+END
+tagCloud.gsp.TODO
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bragzz/!svn/ver/2/bragzz/grails-app/views/brag/tagCloud.gsp.TODO
+END
